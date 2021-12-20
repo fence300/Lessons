@@ -1,0 +1,4 @@
+# What is the Kernel anyway?
+The Linux Kernel is an abstraction layer that sits between the hardware and the software.  It's the piece of software that the computer is running when it seems to be running nothing at all.  And what that program does is to launch other programs.
+
+Without the help of the Kernel, an application would have to access the hardware directly; storing data at RAM memory registers and remembering where on the hard disk it's files are stored.  But the biggest difference is that there would be no functionality for a second application to run on that hardware.  Each device would be single-purpose, with all of the hardware devoted to the one application.  This is actually pretty common for things like washing machines, and toasters, and microwaves, and furnaces, and simple calculators.
